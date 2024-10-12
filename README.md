@@ -2615,8 +2615,7 @@ Virtualization vulnerabilities pose significant risks in modern IT environments.
 
 ![alt text](<Professor Messer - Virtualization Vulnerabilities - CompTIA Security+ SY0-701 - 2.3 [t2JrPrzRDLA - 1063x598 - 2m20s].png>)
 
-![alt text](<Professor Messer - Virtualization Vulnerabilities - CompTIA Security+ SY0-701 - 2.3 [t2JrPrzRDLA - 1063x598 - 2m20s].png>)
-
+![alt text](<Professor Messer - Virtualization Vulnerabilities - CompTIA Security+ SY0-701 - 2.3 [t2JrPrzRDLA - 1063x598 - 4m52s].png>)
 
 
 ## Cloud-specific Vulnerabilities - CompTIA Security+ SY0-701 - 2.3
